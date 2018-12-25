@@ -4,6 +4,13 @@ Some links about the history of Bitcoin.
 Ordered in inversal chronological order.  
 PR are very welcome.
 
+### [Bitcoin history timeline](http://historyofbitcoin.org/)
+
+Nicely done graphical timeline of the history of Bitcoin.  
+Ends on January 2014.
+
+--
+
 ### [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 `January 26, 2018`
